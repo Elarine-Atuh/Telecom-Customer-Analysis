@@ -12,6 +12,8 @@ Databricks (for big data analysis)
 
 PySpark (data processing and transformation)
 
-SQL (querying and aggregations)
-
 Python (data cleaning, preprocessing)
+
+SQL (querying, aggregations and visualization)
+
+
